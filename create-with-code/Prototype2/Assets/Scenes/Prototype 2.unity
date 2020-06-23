@@ -722,11 +722,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animal_Cow_Brown
       objectReference: {fileID: 0}
-    - target: {fileID: 8021062690776037117, guid: ebf98efd3eb44714fa1f905acf375119,
-        type: 3}
-      propertyPath: speed
-      value: 20
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ebf98efd3eb44714fa1f905acf375119, type: 3}
 --- !u!1001 &42683283413177313
@@ -795,11 +790,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8327461878154719737, guid: b764c322dd12ffe45925b0d47dc57ff7,
-        type: 3}
-      propertyPath: speed
-      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b764c322dd12ffe45925b0d47dc57ff7, type: 3}
@@ -879,11 +869,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4352066678467413430, guid: 223f73e9100341a4aa2e2e8b4822792a,
-        type: 3}
-      propertyPath: speed
-      value: 30
-      objectReference: {fileID: 0}
     - target: {fileID: 6049217922672909047, guid: 223f73e9100341a4aa2e2e8b4822792a,
         type: 3}
       propertyPath: m_Name
@@ -953,11 +938,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5310851830017450723, guid: 3ae22b2b6e9e006438900aee7a904a79,
-        type: 3}
-      propertyPath: speed
-      value: 30
-      objectReference: {fileID: 0}
     - target: {fileID: 5757943626687283832, guid: 3ae22b2b6e9e006438900aee7a904a79,
         type: 3}
       propertyPath: m_LocalPosition.x
